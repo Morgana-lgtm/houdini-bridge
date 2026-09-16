@@ -1,0 +1,14 @@
+# Houdini 自动备份 / autosave
+backup/
+*.hip.bak
+*_bak*.hip
+*.hdanc
+
+# Houdini 输出缓存
+render/
+sim/
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
